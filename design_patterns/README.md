@@ -15,8 +15,16 @@ Patterns are devided into three main groups:
 Link -> https://refactoring.guru/design-patterns/abstract-factory
 2. __Builder__ is a creational design pattern that lets you construct complex objects step by step. The pattern allows you to produce different types and representations of an object using the same construction code:
 ![builder](/images/design_patterns/builder.png)
+Link -> https://refactoring.guru/design-patterns/builder
 3. __Factory Method__ is a creational design pattern that provides an interface for creating objects in a superclass, but allows subclasses to alter the type of objects that will be created:
 ![factory](/images/design_patterns/factory.png)
+Link -> https://refactoring.guru/design-patterns/factory-method
+4. __Prototype__ is a creational design pattern that lets you copy existing objects without making your code dependent on their classes:
+![prototype](/images/design_patterns/prototype.png)
+Link -> https://refactoring.guru/design-patterns/prototype
+5. __Singleton__ is a creational design pattern that lets you ensure that a class has only one instance, while providing a global access point to this instance
+![singleton](/images/design_patterns/singleton.png)
+Link -> https://refactoring.guru/design-patterns/singleton
 - - -
 ### Structural Patterns
 TODO

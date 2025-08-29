@@ -1,7 +1,9 @@
 - - -
 Class relationship diagrams:
 1. __Association__ = _knows_:
+
 ![association](/images/class_interactions/association.png)
+
 ```python
 class Car:
     def __init__(self, model):
@@ -29,7 +31,9 @@ driver.driver_car(car1)
 driver.driver_car(car2)
 ```
 2. __Aggregation__ = _has-a_:
+
 ![aggregation](/images/class_interactions/aggregation.png)
+
 ```python
 from typing import List
 
@@ -66,7 +70,9 @@ university.add_department(department2)
 university.show_departments()
 ```
 3. __Composition__ = _owns_:
+
 ![composition](/images/class_interactions/composition.png)
+
 ```python
 class Room:
     def __init__(self, name):
@@ -96,7 +102,9 @@ house.show_house()
 del house
 ```
 4. __Inheritance__ = _is-a_:
+
 ![inheritance](/images/class_interactions/inheritance.png)
+
 ```python
 class Animal:
     def __init__(self, name, age):
