@@ -27,7 +27,12 @@ Link -> https://refactoring.guru/design-patterns/prototype
 Link -> https://refactoring.guru/design-patterns/singleton
 - - -
 ### Structural Patterns
-TODO
+1. __Adapter__ is a structural design pattern that allows objects with incompatible interfaces to collaborate:
+![adapter](/images/design_patterns/adapter.png)
+Link -> https://refactoring.guru/design-patterns/adapter
+2. __Bridge__ is a structural design pattern that lets you split a large class or a set of closely related classes into two separate hierarchies—abstraction and implementation—which can be developed independently of each other:
+![bridge](/images/design_patterns/bridge.png)
+Link -> https://refactoring.guru/design-patterns/bridge
 - - -
 ### Behavioral Patterns
 TODO
