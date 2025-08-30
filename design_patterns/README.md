@@ -33,6 +33,15 @@ Link -> https://refactoring.guru/design-patterns/adapter
 2. __Bridge__ is a structural design pattern that lets you split a large class or a set of closely related classes into two separate hierarchies—abstraction and implementation—which can be developed independently of each other:
 ![bridge](/images/design_patterns/bridge.png)
 Link -> https://refactoring.guru/design-patterns/bridge
+3. __Composite__ is a structural design pattern that lets you compose objects into tree structures and then work with these structures as if they were individual objects:
+![composite](/images/design_patterns/composite.png)
+Link -> https://refactoring.guru/design-patterns/composite
+4. __Decorator__ is a structural design pattern that lets you attach new behaviors to objects by placing these objects inside special wrapper objects that contain the behaviors:
+![decorator](/images/design_patterns/decorator.png)
+Link -> https://refactoring.guru/design-patterns/decorator
+5. __Facade__ is a structural design pattern that provides a simplified interface to a library, a framework, or any other complex set of classes (A facade can become __a god object__ coupled to all classes of an app)
+![facade](/images/design_patterns/facade.png)
+Link -> https://refactoring.guru/design-patterns/facade
 - - -
 ### Behavioral Patterns
 TODO
