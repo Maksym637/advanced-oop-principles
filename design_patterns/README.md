@@ -21,9 +21,11 @@ Link -> https://refactoring.guru/design-patterns/builder
 Link -> https://refactoring.guru/design-patterns/factory-method
 4. __Prototype__ is a creational design pattern that lets you copy existing objects without making your code dependent on their classes:
 ![prototype](/images/design_patterns/prototype.png)
+
 Link -> https://refactoring.guru/design-patterns/prototype
 5. __Singleton__ is a creational design pattern that lets you ensure that a class has only one instance, while providing a global access point to this instance
 ![singleton](/images/design_patterns/singleton.png)
+
 Link -> https://refactoring.guru/design-patterns/singleton
 - - -
 ### Structural Patterns
@@ -39,12 +41,20 @@ Link -> https://refactoring.guru/design-patterns/composite
 4. __Decorator__ is a structural design pattern that lets you attach new behaviors to objects by placing these objects inside special wrapper objects that contain the behaviors:
 ![decorator](/images/design_patterns/decorator.png)
 Link -> https://refactoring.guru/design-patterns/decorator
-5. __Facade__ is a structural design pattern that provides a simplified interface to a library, a framework, or any other complex set of classes (A facade can become __a god object__ coupled to all classes of an app)
+5. __Facade__ is a structural design pattern that provides a simplified interface to a library, a framework, or any other complex set of classes (A facade can become __a god object__ coupled to all classes of an app):
 ![facade](/images/design_patterns/facade.png)
 Link -> https://refactoring.guru/design-patterns/facade
+6. __Flyweight__ is a structural design pattern that lets you fit more objects into the available amount of RAM by sharing common parts of state between multiple objects instead of keeping all of the data in each object:
+![flyweight](/images/design_patterns/flyweight.png)
+Link -> https://refactoring.guru/design-patterns/flyweight
+7. __Proxy__ is a structural design pattern that lets you provide a substitute or placeholder for another object:
+![proxy](/images/design_patterns/proxy.png)
+Link -> https://refactoring.guru/design-patterns/proxy
 - - -
 ### Behavioral Patterns
-TODO
+1. __Chain of Responsibility__ is a behavioral design pattern that lets you pass requests along a chain of handlers. Upon receiving a request, each handler decides either to process the request or to pass it to the next handler in the chain:
+![chain_of_responsibility](/images/design_patterns/chain_of_responsibility.png)
+Link -> https://refactoring.guru/design-patterns/chain-of-responsibility
 - - -
 ### Useful links
 - https://refactoring.guru/design-patterns/python
