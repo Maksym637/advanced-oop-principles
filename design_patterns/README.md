@@ -64,6 +64,9 @@ Link -> https://refactoring.guru/design-patterns/memento
 4. __State__ is a behavioral design pattern that lets an object alter its behavior when its internal state changes. It appears as if the object changed its class:
 ![state](/images/design_patterns/state.png)
 Link -> https://refactoring.guru/design-patterns/state
+5. __Template Method__ is a behavioral design pattern that defines the skeleton of an algorithm in the superclass but lets subclasses override specific steps of the algorithm without changing its structure:
+![template_method](/images/design_patterns/template_method.png)
+Link -> https://refactoring.guru/design-patterns/template-method
 - - -
 ### Useful links
 - https://refactoring.guru/design-patterns/python
