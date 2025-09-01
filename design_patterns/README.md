@@ -55,6 +55,15 @@ Link -> https://refactoring.guru/design-patterns/proxy
 1. __Chain of Responsibility__ is a behavioral design pattern that lets you pass requests along a chain of handlers. Upon receiving a request, each handler decides either to process the request or to pass it to the next handler in the chain:
 ![chain_of_responsibility](/images/design_patterns/chain_of_responsibility.png)
 Link -> https://refactoring.guru/design-patterns/chain-of-responsibility
+2. __Iterator__ is a behavioral design pattern that lets you traverse elements of a collection without exposing its underlying representation (list, stack, tree, etc.):
+![iterator](/images/design_patterns/iterator.png)
+Link -> https://refactoring.guru/design-patterns/iterator
+3. __Memento__ is a behavioral design pattern that lets you save and restore the previous state of an object without revealing the details of its implementation:
+![memento](/images/design_patterns/memento.png)
+Link -> https://refactoring.guru/design-patterns/memento
+4. __State__ is a behavioral design pattern that lets an object alter its behavior when its internal state changes. It appears as if the object changed its class:
+![state](/images/design_patterns/state.png)
+Link -> https://refactoring.guru/design-patterns/state
 - - -
 ### Useful links
 - https://refactoring.guru/design-patterns/python
