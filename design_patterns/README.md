@@ -67,6 +67,12 @@ Link -> https://refactoring.guru/design-patterns/state
 5. __Template Method__ is a behavioral design pattern that defines the skeleton of an algorithm in the superclass but lets subclasses override specific steps of the algorithm without changing its structure:
 ![template_method](/images/design_patterns/template_method.png)
 Link -> https://refactoring.guru/design-patterns/template-method
+6. __Command__ is a behavioral design pattern that turns a request into a stand-alone object that contains all information about the request. This transformation lets you pass requests as a method arguments, delay or queue a request’s execution, and support undoable operations:
+![command](/images/design_patterns/command.png)
+Link -> https://refactoring.guru/design-patterns/command
+7. __Mediator__ is a behavioral design pattern that lets you reduce chaotic dependencies between objects. The pattern restricts direct communications between the objects and forces them to collaborate only via a mediator object:
+![mediator](/images/design_patterns/mediator.png)
+Link -> https://refactoring.guru/design-patterns/mediator
 - - -
 ### Useful links
 - https://refactoring.guru/design-patterns/python
