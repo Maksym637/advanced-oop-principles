@@ -73,6 +73,12 @@ Link -> https://refactoring.guru/design-patterns/command
 7. __Mediator__ is a behavioral design pattern that lets you reduce chaotic dependencies between objects. The pattern restricts direct communications between the objects and forces them to collaborate only via a mediator object:
 ![mediator](/images/design_patterns/mediator.png)
 Link -> https://refactoring.guru/design-patterns/mediator
+8. __Observer__ is a behavioral design pattern that lets you define a subscription mechanism to notify multiple objects about any events that happen to the object they’re observing:
+![observer](/images/design_patterns/observer.png)
+Link -> https://refactoring.guru/design-patterns/observer
+9. __Strategy__ is a behavioral design pattern that lets you define a family of algorithms, put each of them into a separate class, and make their objects interchangeable:
+![strategy](/images/design_patterns/strategy.png)
+Link -> https://refactoring.guru/design-patterns/strategy
 - - -
 ### Useful links
 - https://refactoring.guru/design-patterns/python
