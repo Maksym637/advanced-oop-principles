@@ -23,6 +23,7 @@ Link -> https://refactoring.guru/design-patterns/factory-method
 ![prototype](/images/design_patterns/prototype.png)
 
 Link -> https://refactoring.guru/design-patterns/prototype
+
 5. __Singleton__ is a creational design pattern that lets you ensure that a class has only one instance, while providing a global access point to this instance
 ![singleton](/images/design_patterns/singleton.png)
 
@@ -79,6 +80,9 @@ Link -> https://refactoring.guru/design-patterns/observer
 9. __Strategy__ is a behavioral design pattern that lets you define a family of algorithms, put each of them into a separate class, and make their objects interchangeable:
 ![strategy](/images/design_patterns/strategy.png)
 Link -> https://refactoring.guru/design-patterns/strategy
+10. __Visitor__ is a behavioral design pattern that lets you separate algorithms from the objects on which they operate:
+![visitor](/images/design_patterns/visitor.png)
+Link -> https://refactoring.guru/design-patterns/visitor
 - - -
 ### Useful links
 - https://refactoring.guru/design-patterns/python
